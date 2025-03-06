@@ -3,6 +3,7 @@
 
 Welcome to the Insurance Cross-Selling Prediction project! The goal of this project is to predict which customers are most likely to purchase additional insurance products using a machine learning model.
 
+Project link: https://towardsdatascience.com/machine-learning-operations-mlops-for-beginners-a5686bfe02b2/
 
 ## Diagram
 Below is the architecture diagram that illustrates the flow of the project from data ingestion to model deployment:
